@@ -1,0 +1,8 @@
+C:\Users\Bar\Documents\GitHub\Database\Database Ex\Database Ex\bin\Debug\Database Ex.exe.config
+C:\Users\Bar\Documents\GitHub\Database\Database Ex\Database Ex\bin\Debug\Database1.mdf
+C:\Users\Bar\Documents\GitHub\Database\Database Ex\Database Ex\bin\Debug\Database1_log.ldf
+C:\Users\Bar\Documents\GitHub\Database\Database Ex\Database Ex\bin\Debug\Database Ex.exe
+C:\Users\Bar\Documents\GitHub\Database\Database Ex\Database Ex\bin\Debug\Database Ex.pdb
+C:\Users\Bar\Documents\GitHub\Database\Database Ex\Database Ex\obj\Debug\Database Ex.csprojResolveAssemblyReference.cache
+C:\Users\Bar\Documents\GitHub\Database\Database Ex\Database Ex\obj\Debug\Database Ex.exe
+C:\Users\Bar\Documents\GitHub\Database\Database Ex\Database Ex\obj\Debug\Database Ex.pdb
